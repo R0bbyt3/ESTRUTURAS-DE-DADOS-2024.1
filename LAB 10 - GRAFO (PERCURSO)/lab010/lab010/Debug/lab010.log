@@ -1,0 +1,6 @@
+﻿cl : linha de comando warning D9025: substituindo '/sdl' com '/GS-'
+  grafo.c
+C:\Users\Giova\source\repos\lab010\lab010\grafo.c(103,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giova\source\repos\lab010\lab010\grafo.c(108,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giova\source\repos\lab010\lab010\grafo.c(111,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lab010.vcxproj -> C:\Users\Giova\source\repos\lab010\Debug\lab010.exe

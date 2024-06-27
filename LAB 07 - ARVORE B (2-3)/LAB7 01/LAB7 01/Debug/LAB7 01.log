@@ -1,0 +1,5 @@
+﻿  heapmax.c
+C:\Users\Giova\source\repos\LAB7 01\LAB7 01\heapmax.c(48,9): warning C4101: 'pri': variável local não referenciada
+  testeheap.c
+  Gerando Código...
+  LAB7 01.vcxproj -> C:\Users\Giova\source\repos\LAB7 01\Debug\LAB7 01.exe

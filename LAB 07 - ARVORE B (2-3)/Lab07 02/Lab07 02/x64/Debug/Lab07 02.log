@@ -1,0 +1,5 @@
+﻿  heaparvmin.c
+  testehuffman.c
+  Gerando Código...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Lab07 02.vcxproj -> C:\Users\Giova\source\repos\Lab07 02\x64\Debug\Lab07 02.exe

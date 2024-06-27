@@ -1,0 +1,4 @@
+﻿cl : linha de comando warning D9025: substituindo '/sdl' com '/GS-'
+  mapa.c
+C:\Users\Giova\source\repos\LabDispersao\LabDispersao\mapa.c(53,24): warning C4244: '=': conversão de 'double' para 'int', possível perda de dados
+  LabDispersao.vcxproj -> C:\Users\Giova\source\repos\LabDispersao\Debug\LabDispersao.exe

@@ -1,0 +1,9 @@
+﻿cl : linha de comando warning D9025: substituindo '/sdl' com '/GS-'
+  grafo.c
+C:\Users\Giova\source\repos\labmst\labmst\grafo.c(49,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giova\source\repos\labmst\labmst\grafo.c(54,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giova\source\repos\labmst\labmst\grafo.c(57,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Giova\source\repos\labmst\labmst\grafo.c(176,13): warning C4101: 'peso': variável local não referenciada
+  heap.c
+  Gerando Código...
+  labmst.vcxproj -> C:\Users\Giova\source\repos\labmst\Debug\labmst.exe
